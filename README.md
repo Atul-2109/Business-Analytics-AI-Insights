@@ -87,11 +87,17 @@ The system converts KPI outputs into business-readable insights and recommendati
 ## Project Structure
 
 Business-Analytics-AI-Insights/
-├── data/ \n
+
+├── data/ 
+
 ├── notebook/
+
 ├── reports/
+
 ├── visuals/
+
 ├── README.md
+
 └── requirements.txt
 
 ---
