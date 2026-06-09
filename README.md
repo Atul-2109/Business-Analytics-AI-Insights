@@ -87,7 +87,7 @@ The system converts KPI outputs into business-readable insights and recommendati
 ## Project Structure
 
 Business-Analytics-AI-Insights/
-├── data/
+├── data/ \n
 ├── notebook/
 ├── reports/
 ├── visuals/
@@ -105,10 +105,3 @@ Business-Analytics-AI-Insights/
 
 ---
 
-## Author
-
-Atul Parashar
-
-M.Sc. Mathematics (Pursuing)
-
-Data Science & Analytics Enthusiast
